@@ -8,7 +8,7 @@ Its a wrapper built around ``sed``, hence its highly portable.
 ## Installation
 Grab the ``.deb`` package from the [Release](https://github.com/shashank-ssriva/FindReplace/releases) & install it as : -
 ```
-root@shashank-dbserver:/home/shashank# dpkg -i -i findreplace_0.2-1_all.deb
+root@shashank-dbserver:/home/shashank# dpkg -i findreplace_0.2-1_all.deb
 ```
 ## Usage
 Just execute ``findreplace`` command & pass a valid file-name where you want text to be substituted.
