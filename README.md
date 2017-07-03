@@ -6,7 +6,7 @@ If you don't want to open a Text Editor or remember ``sed`` syntax for replacing
 Its a wrapper built around ``sed``, hence its highly portable.
 
 ## Installation
-Grab the ``.deb`` package from the [Release]() & install it as : -
+Grab the ``.deb`` package from the [Release](https://github.com/shashank-ssriva/FindReplace/releases) & install it as : -
 ```
 dpkg -i -i findreplace_0.2-1_all.deb
 ```
