@@ -1,7 +1,7 @@
 # FindReplace
 
 ## Introduction
-An Ubuntu ``.deb`` command line utility that mimics Find/Replace functionality available in most Text Editors.
+An Ubuntu ``.deb`` package/command line utility that mimics Find/Replace functionality available in most Text Editors.
 If you don't want to open a Text Editor or remember ``sed`` syntax for replacing strings in a text file, use ``findreplace``. It asks you to enter the word you wan't to replace & also checks if the word is present or not. If word is present, it prompts you to enter a word that you to be replaced with.
 Its a wrapper built around ``sed``, hence its highly portable.
 
